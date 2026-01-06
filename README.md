@@ -2,12 +2,12 @@
 
 This repository contains a 5-day SQL practice challenge designed for beginners to intermediate learners.
 
-## 📊 Dataset
+##  Dataset
 - employee_demographics.csv
 - employee_salary.csv
 - parks_departments
 
-## 🧠 Topics Covered
+##  Topics Covered
 - SELECT
 - WHERE
 - ORDER BY
@@ -17,13 +17,13 @@ This repository contains a 5-day SQL practice challenge designed for beginners t
 - Subqueries
 - Window Functions
 
-## 🚀 How to Use
+##  How to Use
 1. Download the datasets from the `data` folder.
 2. Import them into your SQL environment (MySQL / PostgreSQL / SQLite).
 3. Try solving the questions first.
 4. Check the solutions after.
 
-## 📅 Progress
+##  Progress
 - Day 1: Basic SELECT & Filtering
 - Day 2: Aggregations
 - Day 3: Joins
